@@ -12,13 +12,6 @@ import com.app.todolist.R;
 
 import java.util.HashMap;
 import java.util.List;
-
-/**
- * Created by Sebastian Lutz on 28.02.2018.
- *
- * Helper for HelpActivity, creating a FAQ-style layout
- */
-
 public class ExpandableListAdapter extends BaseExpandableListAdapter {
     private Context context;
     private List<String> expandableListTitle;
