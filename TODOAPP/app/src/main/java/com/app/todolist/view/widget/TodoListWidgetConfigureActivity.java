@@ -20,11 +20,6 @@ import com.app.todolist.model.database.DatabaseHelper;
 
 import java.util.ArrayList;
 
-/**
- * The configuration screen for the {@link TodoListWidget TodoListWidget} AppWidget.
- * @author Sebastian Lutz
- * @version 1.0
- */
 public class TodoListWidgetConfigureActivity extends Activity {
 
     private static final String PREFS_NAME = "org.secuso.todolist.view.widget.TodoListWidget";
