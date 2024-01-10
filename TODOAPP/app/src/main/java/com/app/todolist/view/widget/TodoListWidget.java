@@ -15,13 +15,6 @@ import com.app.todolist.view.MainActivity;
 
 import com.app.todolist.R;
 
-/**
- * Implementation of App Widget functionality.
- * App Widget Configuration implemented in {@link TodoListWidgetConfigureActivity TodoListWidgetConfigureActivity}
- *
- * @author Sebastian Lutz
- * @version 1.0
- */
 
 public class TodoListWidget extends AppWidgetProvider {
 
